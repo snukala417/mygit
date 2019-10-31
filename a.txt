@@ -2,4 +2,6 @@ cat
 dog
 tiger
 wolf
+lion
+mouse
 
